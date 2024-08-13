@@ -31,5 +31,11 @@ EDA was performed to answer a few key questions such as:
 - What years showed the highest number of cases of tuberculosis?
 - What are the trends for high case regions and the time periods at which they occured?
 
-### Data Analysis
+### Data Analysis Results/Findings
+The analysis results are summarized as follows:
+From the year 2000, there was a peak in tuberculosis cases globally in 2003. Since 2003, there has been a steady decline up until 2020. From 2020 onwards, we see a plateau into a slight increase. Globally, the highest amount of tuberculosis cases can be seen in the southern region of Africa with the top three countries being Eswatini, South Africa, and Lesotho.
+
+In the United States, the highest concentration of tuberculosis cases is found in California, which aligns with the fact that California is the most populated state in the country. The second highest was Texas, which is also the second most populated state in the country. 
+
+Amongst California residents, the highest amount of cases were found in the age group of 45-64 years of age. The most cases were seen within the white population, followed by the hispanic population. Both of these groups were significantly higher than any other race in the state.  
 
