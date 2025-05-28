@@ -1,4 +1,6 @@
 # Analysis of Tuberculosis Cases in Modern History
+This is an exploratory data analysis to evaluate the rates of Tuberculosis from 2000-2024.
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
